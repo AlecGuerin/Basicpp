@@ -1,0 +1,2 @@
+# basiccpp
+ Multiplateform utility library
